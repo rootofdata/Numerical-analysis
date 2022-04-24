@@ -1,5 +1,5 @@
 import math
-from scipy.misc import derivative #미분값 구하기.
+from scipy.misc import derivative #미분값 구하기. 
 i=1
 
 def f(x):  #define function
